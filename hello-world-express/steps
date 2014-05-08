@@ -1,0 +1,32 @@
+Create an express app
+
+//1. create package.JSON  file
+//2. create Git repo (git init)
+//3. create git ignore file (touch .gitignore)
+// (echo "node_modules/" >> .gitignore)
+//4. create server file(touch server.js)
+
+Homework instructions
+
+Create your own static file serving express app,
+
+1) include at least one link,
+2) one css style sheet and
+3) one javascript file.
+
+
+largest research labs in the world
+-los alamos national lab (los alamos)
+--The Manhattan Project
+-CERN
+--Large Hadron Collider
+-Lawrence Livermore National Lab
+--NIF
+
+
+TODO: *write style sheet
+        --nice font for header
+        --link hover states
+        --full spread background image of national lab
+      *add js file
+        --do something dynamic

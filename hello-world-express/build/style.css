@@ -1,0 +1,38 @@
+.lab-title{
+  width: -webkit-calc(50% - 2em);
+  width: calc(50% - 2em);
+  font-size:200px;
+
+}
+
+.lab-list ul{
+  list-style: none;
+}
+
+.lab-list ul li{
+  font-family:Georgia,serif,Times; font-size:18px;
+}
+
+.lab-list ul li a{
+  display:block;
+  width:300px;
+  height:28px;
+  background-color:#333;
+  border-left:5px solid #222;
+  border-right:5px solid #222;
+  padding-left:10px;
+
+  text-decoration:none;
+  color:#bfelf1;
+}
+
+.lab-list ul li a:hover{
+  -webkit-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
+  transform: rotate(-5deg);
+  -webkit-box-shadow: 10px 10px 20px #000000;
+  box-shadow: 10px 10px 20px #000000;
+
+
+}
+
