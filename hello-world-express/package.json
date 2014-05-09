@@ -1,12 +1,12 @@
 {
-    "name": "hello-express",
-    "description": "This is our hello-express",
-    "version": "0.0.1",
-    "dependencies": {
-        "express": "4.x",
-        "express-redirect": "0.0.*"
-    },
-    "devDependencies": {
-
-    }
+  "name": "hello-express",
+  "description": "This is our hello-express",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.x",
+    "express-redirect": "0.0.*"
+  },
+  "devDependencies": {
+    "grunt-express-server": "~0.4.17"
+  }
 }
